@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha anh chai :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bé Kim lại yêu bé Quang lo chyện bao đồng vậy chèn <3',
     btnReply: 'Gửi cho anh yêu của em <3333',
-    reply: 'Yêu anh chai chu bạn kia anh Yêu anh Xã của emmmm <33333333',
+    reply: 'Yêu anh chai chú bạn kia anh Yêu anh Xã của emmmm <33333333',
     mess: 'Anh biết mà 🥰. Yêu bé KImmmm nhiều nhiều 😘😘',
-    messDesc: 'Nay 20/11 là ngày đẹp, lần trước là em cua anh thì lần này anh cua lại thế giới của mình. Làm Bà Xã của anh một lần nữa nha bé KIM ngang ngược mà vân quan tâm anh chai hơm hỉu chuyện này.',
+    messDesc: 'Nay 20/11 là ngày đẹp, lần trước là em cua anh thì lần này anh cua lại thế giới của mình. Làm Bà Xã của anh một lần nữa nha bé KIM ngang ngược mà vẫn quan tâm anh chai hơm hỉu chuyện này.',
     btnAccept: 'Okiiiii anh yêuuuu <3333',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
