@@ -16,5 +16,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu bé KImmmm nhiều nhiều 😘😘',
     messDesc: 'Nay 20/11 là ngày đẹp, lần trước là em cua anh thì lần này anh cua lại thế giới của mình. Làm Bà Xã của anh một lần nữa nha bé KIM ngang ngược mà vẫn quan tâm anh chai hơm hỉu chuyện này.',
     btnAccept: 'Okiiiii anh yêuuuu <3333',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+  
